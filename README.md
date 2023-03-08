@@ -9,7 +9,7 @@
 - แต่ละ node ห้ามย้อนกลับ (ต้องขึ้นลงเป็นทางเดียว) และเชื่อมกัน
 - คำตอบให้อยู่ในรูปของ จำนวนรวมของเส้นทางที่ผ่าน ซึ่งจากตัวอย่างคือ `237`
 
-ให้เขียนโปรแกรมภาษา Typescript โดยใช้ input จากไฟล์นี้ <https://github.com/7-solutions/backend-challenge/blob/main/files/hard.json> และแสดงผลเป็นค่าที่ได้จากการคำนวณ
+ให้เขียนโปรแกรมภาษา Typescript โดยใช้ input จากไฟล์นี้ <https://github.com/7-solutions/fronend-assignment/blob/main/files/hard.json> และแสดงผลเป็นค่าที่ได้จากการคำนวณ
 
 input = `[[59], [73, 41], [52, 40, 53], [26, 53, 6, 34]]`
 output = `237`
@@ -62,8 +62,6 @@ output = `210122`
 - Your project must use Typescript, Typescript module, and HTTP framework (GRPC is plus)
 - You create a JSON API at this endpoint /beef/summary
 - The JSON API must count the number of beef
-- We encourage you to write tests, which we will give you some extra score
-- We will give you an extra score if you focus on performance.
 
 --- sample response --
 
@@ -88,7 +86,7 @@ output = `210122`
 ใช้ข้อความจาก <https://dummyjson.com/users>
 
 - Your project must use Typescript, Typescript module, and HTTP framework (GRPC is plus)
-- tranforms JSON data from API to new data groupBy department
+- Tranforms JSON data from API to new data groupBy department
 - We encourage you to write tests, which we will give you some extra score
 - We will give you an extra score if you focus on performance.
 
