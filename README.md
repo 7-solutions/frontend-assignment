@@ -69,7 +69,7 @@ Bonus: if you have multiple solutions we could discuss those theories in our int
 
 ## 2. Create data from API 
 
-ใช้ข้อความจาก <https://dummyjson.com/users>
+API from <https://dummyjson.com/users>
 
 - Your project must use Typescript, Typescript module, and HTTP framework (GRPC is plus)
 - Tranforms JSON data from API to new data groupBy department
