@@ -58,8 +58,7 @@ Please make a todo list that
 - If that data already exists, it must be moved back.
 
 See example in the link below
-
-![Figure 1-1](files/video.mov)
+https://drive.google.com/file/d/11PUfxCc3wRvsBd5DBS-FvTz2AMRLgRMW/view?usp=sharing
 
 Please do your best to show your best solution
 we are looking for
