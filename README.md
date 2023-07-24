@@ -1,3 +1,15 @@
+# How to run
+- `yarn install` then `yarn start`
+
+# Important note
+- Question 1 is `http://localhost:3000/`
+- Question 2 is `http://localhost:3000/employee`
+
+# Further improvements
+- smoother UX
+- better caching incase of record update
+- consider background processing in case wanted to push to the edge
+
 # Assignment
 
 ## 1. Auto Delete Todo List
