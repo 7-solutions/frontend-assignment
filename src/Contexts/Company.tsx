@@ -1,6 +1,5 @@
 import { Dispatch, createContext, useReducer } from 'react'
 import _ from 'lodash'
-import employees from '../employees.json'
 
 type Department = Record<string, string | number | Record<string, string | number>>
 
