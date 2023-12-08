@@ -79,25 +79,21 @@ API from <https://dummyjson.com/users>
 --- sample response --
 
 ```json
-
-department: [
     {
-        "Marketing": {
-            "male": 1,                      // ---> Male Summary
-            "female": 1,                    // ---> Femlae Summary
+        [Department]: {
+            "male": 1,                      // ---> Male Count Summary
+            "female": 1,                    // ---> Female Count Summary
             "ageRange": "XX-XX",            // ---> Range
-            "ageMode": 1,                   // ---> Mode ฐานนิยม
             "hair": {                       // ---> "Color": Color Summary
                 "Black": 1,                
                 "Blond": 1,
                 "Chestnut": 1,
                 "Brown": 1
             },
-            "addressUser": {                // ---> "firstNamelastName": postalCode (address)
+            "addressUser": {                // ---> "firstNamelastName": postalCode
                 "TerryMedhurst": "XXXXX",
             }
         }
     }, 
     ...
-]
 ```
