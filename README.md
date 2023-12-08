@@ -52,9 +52,9 @@
 ```
 
 Please make a todo list that
-- Take text input
-- Show data by type from array based on text input.
-- Each text input will have 5 second on the screen then will be auto removed
+- Have a list of clickable buttons
+- Each button will be moved into their own column separated by type
+- Once moved, each button will have 5 second on the screen then will be moved back to the main list 
 - If that data already exists, it must be moved back.
 
 See example in the link below
