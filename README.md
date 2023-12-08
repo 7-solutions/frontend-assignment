@@ -80,24 +80,21 @@ API from <https://dummyjson.com/users>
 
 ```json
 
-department: [
+[Department]: 
     {
-        "Marketing": {
-            "male": 1,                      // ---> Male Summary
-            "female": 1,                    // ---> Femlae Summary
-            "ageRange": "XX-XX",            // ---> Range
-            "ageMode": 1,                   // ---> Mode ฐานนิยม
-            "hair": {                       // ---> "Color": Color Summary
-                "Black": 1,                
-                "Blond": 1,
-                "Chestnut": 1,
-                "Brown": 1
-            },
-            "addressUser": {                // ---> "firstNamelastName": postalCode (address)
+        "male": 1,                      // ---> Male Summary
+        "female": 1,                    // ---> Female Summary
+        "ageRange": "XX-XX",            // ---> Range
+        "ageMode": 1,                   // ---> Mode ฐานนิยม
+        "hair": {                       // ---> "Color": Color Summary
+        "Black": 1,                
+        "Blond": 1,
+        "Chestnut": 1,
+        "Brown": 1,
+        "addressUser": {                // ---> "firstNamelastName": postalCode (address)
                 "TerryMedhurst": "XXXXX",
             }
-        }
+        },
     }, 
     ...
-]
 ```
