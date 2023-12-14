@@ -67,7 +67,7 @@ we are looking for
 
 Bonus: if you have multiple solutions we could discuss those theories in our interview (no need to submit multiple versions, just send us the best one you think.)
 
-## 2. Create data from API 
+## 2. Create data from API *(OPTIONAL)*
 
 API from <https://dummyjson.com/users>
 
@@ -76,7 +76,7 @@ API from <https://dummyjson.com/users>
 - We encourage you to write tests, which we will give you some extra score
 - We will give you an extra score if you focus on performance.
 
---- sample response --
+--- sample response ---
 
 ```json
     {
