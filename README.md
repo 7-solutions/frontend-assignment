@@ -52,10 +52,10 @@
 ```
 
 Please make a todo list that
-- Have a list of clickable buttons
-- Each button will be moved into their own column separated by type
-- Once moved, each button will have 5 second on the screen then will be moved back to the main list 
-- If that data already exists, it must be moved back.
+- Have a list of clickable buttons.
+- Each button will be moved into its own column separated by type.
+- Once moved, each button will have 5 seconds on the screen and then will be moved back to the main list.
+- If click on the right column (Fruit/Vegetable) the item must go back to the left column (list) immediately.
 
 See example in the link below
 [Video Link](https://drive.google.com/file/d/170AYx0lOXs4DLyZiPGGIgmQpFhwTKNih/view?usp=sharing)
