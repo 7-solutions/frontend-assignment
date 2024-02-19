@@ -57,6 +57,9 @@ Please make a todo list that
 - Once moved, each button will have 5 seconds on the screen and then will be moved back to the main list.
 - If click on the right column (Fruit/Vegetable) the item must go back to the left column (list) immediately.
 
+> [!CAUTION]
+> Please host the test on a hosting service and send us the link.
+
 See example in the link below
 [Video Link](https://drive.google.com/file/d/170AYx0lOXs4DLyZiPGGIgmQpFhwTKNih/view?usp=sharing)
 
